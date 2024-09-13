@@ -1,0 +1,10 @@
+01:53:02 **** Incremental Build of configuration Debug for project ledb_loop ****
+make -j4 all 
+arm-none-eabi-size  ledb_loop.elf 
+   text	   data	    bss	    dec	    hex	filename
+    768	      4	   1572	   2344	    928	ledb_loop.elf
+Finished building: default.size.stdout
+ 
+
+01:53:03 Build Finished. 0 errors, 0 warnings. (took 1s.415ms)
+

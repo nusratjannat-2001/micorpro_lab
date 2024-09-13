@@ -1,0 +1,4 @@
+../Core/Src/main.c:24:6:systik_init	1
+../Core/Src/main.c:33:6:DelayMillis	2
+../Core/Src/main.c:40:6:delays	2
+../Core/Src/main.c:7:5:main	1
